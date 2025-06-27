@@ -21,7 +21,7 @@ const CampusDriveSection = () => {
             <a href="https://www.infosys.com/"><img src="/assests/homePage/infosys.svg" alt="Google" /></a>
             </div>
             <div className="google drive">
-               <a href="https://www.google.com/about/careers/applications/" target='blank'><img src="../public/assests/homePage/google.svg" alt="Google" /></a>
+               <a href="https://www.google.com/about/careers/applications/" target='blank'><img src="/assests/homePage/google.svg" alt="Google" /></a>
             </div>
         </div>
     </div>
