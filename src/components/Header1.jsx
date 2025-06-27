@@ -15,7 +15,7 @@ const Header1 = () => {
 
         <div className="logos">
         <div className="university">
-            <img src="../public/assests/homePage/university-logo.png" alt="" />
+            <img src="/assests/homePage/university-logo.png" alt="" />
         </div>
 
         <div className="naac-logo">
