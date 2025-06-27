@@ -52,7 +52,7 @@ const SlidingPage = () => {
         <div className="mySlides fade">
           <div className="numbertext">1 / 7</div>
           <img
-            src="../public/assests/homePage/campus.jpg"
+            src="/assests/homePage/campus.jpg"
             style={{ width: "100%", height: "500px" }}
             alt="Diet-Campus"
           />
@@ -62,7 +62,7 @@ const SlidingPage = () => {
         <div className="mySlides fade">
           <div className="numbertext">2 / 7</div>
           <img
-            src="../public/assests/homePage/certificate.jpg"
+            src="/assests/homePage/certificate.jpg"
             style={{ width: "100%" , height: "500px"}}
             alt="certificate"
           />
@@ -72,7 +72,7 @@ const SlidingPage = () => {
         <div className="mySlides fade">
           <div className="numbertext">3 / 7</div>
           <img
-            src="../public/assests/homePage/guest.jpg"
+            src="/assests/homePage/guest.jpg"
             style={{ width: "100%" , height:"500px"}}
             alt="guests"
           />
@@ -82,7 +82,7 @@ const SlidingPage = () => {
         <div className="mySlides fade">
           <div className="numbertext">4/ 7</div>
           <img
-            src="../public/assests/homePage/carrer-img.png"
+            src="/assests/homePage/carrer-img.png"
             style={{ width: "100%", height:"500px" }}
             alt="carrer-image"
           />
@@ -92,7 +92,7 @@ const SlidingPage = () => {
         <div className="mySlides fade">
           <div className="numbertext">5 / 7</div>
           <img
-            src="../public/assests/homePage/graduation-img.jpg"
+            src="/assests/homePage/graduation-img.jpg"
             style={{ width: "100%", height:"500px" }}
             alt="gradution-image"
           />
@@ -102,7 +102,7 @@ const SlidingPage = () => {
         <div className="mySlides fade">
           <div className="numbertext">6 / 7</div>
           <img
-            src="../public/assests/homePage/nirtf-certificate.jpg"
+            src="/assests/homePage/nirtf-certificate.jpg"
             style={{ width: "100%" , height:"500px"}}
             alt="nirtf-certificate"
           />
@@ -112,7 +112,7 @@ const SlidingPage = () => {
         <div className="mySlides fade">
           <div className="numbertext">7 / 7</div>
           <img
-            src="../public/assests/homePage/ranking-img.jpg"
+            src="/assests/homePage/ranking-img.jpg"
             style={{ width: "100%" , height:"500px"}}
             alt="ranking-image"
           />

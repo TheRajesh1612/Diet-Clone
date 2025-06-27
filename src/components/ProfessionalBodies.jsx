@@ -7,7 +7,7 @@ const ProfessionalBodies = () => {
         <div class="title" style={{fontFamily: "Cinzel"}}>PROFESSIONAL BODIES</div>
         <div class="subtitle" style={{fontFamily: "Poppins"}}>DIET is an Institutional Member of</div>
         <div className="graduate-image style-icon">
-            <img src="../public/assests/homePage/graduated.svg" alt="Graduated-svg" />
+            <img src="/assests/homePage/graduated.svg" alt="Graduated-svg" />
         </div>
         <div class="grid" >
             <div class="box"><a href="#"><h3 style={{fontFamily:"Poppins"}}>IEEE</h3><br/><p style={{fontFamily:"Poppins"}}>Institute of Electrical and Electronics Engineers</p></a></div>

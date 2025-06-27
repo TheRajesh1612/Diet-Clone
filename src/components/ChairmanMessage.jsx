@@ -7,7 +7,7 @@ const ChairmanMessage = () => {
     <>
 <div class="chairman-container">
     <div class="left">
-        <img src="../public/assests/homePage/chairman.jpg" alt="Chairman"/>
+        <img src="/assests/homePage/chairman.jpg" alt="Chairman"/>
         <div className="chairman-name">
             <h3>SRI DADI RATNAKAR</h3>
             <p style={{color: "red"}}>CHAIRMAN</p>

@@ -25,7 +25,7 @@ const Header2 = () => {
     <>
     <div className="header2">
         <div className="diet-logo">
-            <img src="../public/assests/homePage/diet-logo.jpg" alt="" />
+            <img src="/assests/homePage/diet-logo.jpg" alt="" />
         </div>
 
         <button class="menu-toggle" id="menu-toggle" onClick={toggleMenu}>

@@ -12,7 +12,7 @@ const NewsSection = () => {
               <ul class="events-list">
                 <li>
                   <img
-                    src="../public/assests/homePage/linkedIn.jpg"
+                    src="/assests/homePage/linkedIn.jpg"
                     alt="Event 1"
                   />
                   <a href="#">
@@ -21,7 +21,7 @@ const NewsSection = () => {
                 </li>
                 <li>
                   <img
-                    src="../public/assests/homePage/road-safety.jpg"
+                    src="/assests/homePage/road-safety.jpg"
                     alt="Event 2"
                   />
                   <a href="#">
@@ -30,7 +30,7 @@ const NewsSection = () => {
                 </li>
                 <li>
                   <img
-                    src="../public/assests/homePage/vibrant.jpg"
+                    src="/assests/homePage/vibrant.jpg"
                     alt="Event 3"
                   />
                   <a href="#">
@@ -39,7 +39,7 @@ const NewsSection = () => {
                 </li>
                 <li>
                   <img
-                    src="../public/assests/homePage/parent-meet.jpg"
+                    src="/assests/homePage/parent-meet.jpg"
                     alt="Event 3"
                   />
                   <a href="#">
